@@ -4,19 +4,25 @@
 title: Pocket Star
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Projects and Develop Blogs of Pocket Star Studio
 
 # Your name to show in the footer
-author: Some Person
+author: Benjamin Xu
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "beginner.htm"
+    - Mahjong Tutorial: "beginner.htm"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Projects: "https://deanattali.com"
+    - Wordapp Crossword Maker: "projects/crosswordmaker/wordapp-crosswod-maker.md"
+
+  Projects:
+    - Wordapp Crossword Maker: "projects/crosswordmaker/wordapp-crosswod-maker"
+    - Magic Bean: ""
+  Download:
+    - Crossword Daily: ""
 
 # --- Logo --- #
 
@@ -38,10 +44,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "xiliangxu@gmail.com"
+  facebook: benjamin.xu.1422
+#  github: daattali
+  twitter: minikaraoke
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -49,7 +55,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
+  youtube: channel/UCxxnH-mftpMOsA_WVXYLLlw
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
