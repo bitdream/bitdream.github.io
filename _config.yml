@@ -19,7 +19,8 @@ navbar-links:
     - Wordapp Crossword Maker: "projects/crosswordmaker/wordapp-crosswod-maker.md"
 
   Projects:
-    - Wordapp Crossword Maker: "projects/crosswordmaker/wordapp-crosswod-maker"
+    - Crossword Maker: "projects/crosswordmaker/wordapp-crosswod-maker"
+    - Easy Crossword: "projects/easycrossword/easy-crossword"
     - Magic Bean: "projects/puyopuyo/puyopuyo"
   Downloads:
     - Crossword Daily: ""

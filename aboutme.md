@@ -4,13 +4,14 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Benjamin Hsu. I lead a double life, in lots of aspects:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I work as a regular engineer at large tech company in day time while I am a crazy APP devloper at night.
+- I pretend to be an artist like I pretend to be a programmer.
+- I ...
 
 What else do you need?
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### My history
+I have develoeped lots of APPs, but the true successful one is still on the way. Therefore I left this part blank.
+Anyway you could contact me with the following Twitter link, if you are interested.
