@@ -22,6 +22,7 @@ navbar-links:
     - Crossword Editor: "projects/crosswordeditor/crosswod-editor"
     - Crossword Maker: "projects/crosswordmaker/wordapp-crosswod-maker"
     - Easy Crossword: "projects/easycrossword/easy-crossword"
+    - Crossword of Chinese Idiom: "projects/crosswordchinese/crossword-chinese"
     - Magic Bean: "projects/puyopuyo/puyopuyo"
   Downloads:
     - Crossword Daily: ""
