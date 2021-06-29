@@ -19,13 +19,16 @@ navbar-links:
     - Wordapp Crossword Maker: "projects/crosswordmaker/wordapp-crosswod-maker.md"
 
   Projects:
+    - Combo Push: "projects/combopush/combopush"
     - Crossword Editor: "projects/crosswordeditor/crosswod-editor"
     - Crossword Maker: "projects/crosswordmaker/wordapp-crosswod-maker"
     - Easy Crossword: "projects/easycrossword/easy-crossword"
     - Crossword of Chinese Idiom: "projects/crosswordchinese/crossword-chinese"
     - Magic Bean: "projects/puyopuyo/puyopuyo"
   Downloads:
-    - Crossword Daily: ""
+    - Crossword Daily: "https://play.google.com/store/apps/details?id=com.minikara.crossword.android"
+    - Mahjong School: "https://play.google.com/store/apps/details?id=com.minikara.jpmahjong"
+    
 
 # --- Logo --- #
 
@@ -132,7 +135,7 @@ footer-link-col: "#404040"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-disqus: "minikara"
+# disqus: "minikara"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
