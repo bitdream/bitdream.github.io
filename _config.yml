@@ -25,6 +25,8 @@ navbar-links:
     - Easy Crossword: "projects/easycrossword/easy-crossword"
     - Crossword of Chinese Idiom: "projects/crosswordchinese/crossword-chinese"
     - Magic Bean: "projects/puyopuyo/puyopuyo"
+    - Notebook: "projects/notebook/"
+
   Downloads:
     - Crossword Daily: "https://play.google.com/store/apps/details?id=com.minikara.crossword.android"
     - Mahjong School: "https://play.google.com/store/apps/details?id=com.minikara.jpmahjong"
