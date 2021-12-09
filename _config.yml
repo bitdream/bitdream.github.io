@@ -19,6 +19,7 @@ navbar-links:
     - Wordapp Crossword Maker: "projects/crosswordmaker/wordapp-crosswod-maker.md"
 
   Projects:
+    - Crossword with More Clues: "projects/easycrosswordmc/index"
     - Combo Push: "projects/combopush/combopush"
     - Crossword Editor: "projects/crosswordeditor/crosswod-editor"
     - Crossword Maker: "projects/crosswordmaker/wordapp-crosswod-maker"
