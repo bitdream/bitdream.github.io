@@ -108,3 +108,8 @@ resources or the hard-copy versions, here are some I suggest you keep handy:
 * ✓ An atlas
 * ✓ An almanac
 
+After you have known the basics, you can start by trying "Crossword Daily: Word Puzzle" on yuor smart phone.
+
+<a href='https://play.google.com/store/apps/details?id=com.minikara.crossword.easy.clues&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' style="width:30%;" /></a>
+<a href='https://apps.apple.com/app/id1328365094'><img alt='Get it on App Store'
+ src='/projects/puyopuyo/App_Store_Badge.svg.png' style="width:30%;" /></a>
