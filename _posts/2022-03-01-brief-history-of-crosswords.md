@@ -14,7 +14,7 @@ Crosswords of both varieties (quick and cryptic) rapidly became so wildly popula
 Nowadays, finding a newspaper that doesn’t include at least one crossword is rare. Thousands of websites are devoted to crosswords. Many newspapers and other providers are heading into the future with online puzzles that can be either printed out from a website or solved interactively on your computer or mobile device. Certainly, no sign exists of any reduction in the crossword’s popularity!
 
 
-After you have known the basics, you can start by trying "Crossword Daily: Word Puzzle" on yuor smart phone.
+After you have known the basics, you can start by trying "Crossword Daily: Word Puzzle" on your smart phone.
 
 <a href='https://play.google.com/store/apps/details?id=com.minikara.crossword.easy.clues&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' style="width:30%;" /></a>
 <a href='https://apps.apple.com/app/id1328365094'><img alt='Get it on App Store'

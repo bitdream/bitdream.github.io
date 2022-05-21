@@ -19,7 +19,7 @@ So, you’ve got your brain, tools, reference books and websites to hand. What n
 * Crosswords in newspapers often get harder as the week goes on, so make a start with Monday and Tuesday puzzles, and avoid the weekend ones until you’re more proficient.
 
 
-After you have known the basics, you can start by trying "Crossword Daily: Word Puzzle" on yuor smart phone.
+After you have known the basics, you can start by trying "Crossword Daily: Word Puzzle" on your smart phone.
 
 <a href='https://play.google.com/store/apps/details?id=com.minikara.crossword.easy.clues&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' style="width:30%;" /></a>
 <a href='https://apps.apple.com/app/id1328365094'><img alt='Get it on App Store'
