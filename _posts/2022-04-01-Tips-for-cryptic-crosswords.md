@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brief History of Crosswords
+title: Tips for Cryptic Crosswords
 subtitle: Crossword Tutorial for Beginners
 tags: [Crossword, Tutorial, Word Game, Puzzle]
 comments: true
