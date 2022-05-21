@@ -16,7 +16,7 @@ navbar-links:
   Resources:
     - Mahjong Tutorial: "beginner.htm"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - Wordapp Crossword Maker: "projects/crosswordmaker/wordapp-crosswod-maker.md"
+    - Wordapp Crossword Maker: "projects/crosswordmaker/wordapp-crosswod-maker"
 
   Projects:
     - Crossword with More Clues: "projects/easycrosswordmc/index"
