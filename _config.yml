@@ -13,21 +13,21 @@ author: Benjamin Xu
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Casual Games:
     - Mahjong Tutorial: "beginner.htm"
-    - Learn markdown: "https://www.markdowntutorial.com/"
     - Wordapp Crossword Maker: "projects/crosswordmaker/wordapp-crosswod-maker"
-
-  Projects:
-    - Crossword with More Clues: "projects/easycrosswordmc/index"
     - Combo Push: "projects/combopush/combopush"
+    - Magic Bean: "projects/puyopuyo/puyopuyo"
+    - Notebook: "projects/notebook/"
+
+  Word Games:
+    - Crossword with More Clues: "projects/easycrosswordmc/index"
     - Crossword Editor: "projects/crosswordeditor/crosswod-editor"
     - Crossword Maker: "projects/crosswordmaker/wordapp-crosswod-maker"
     - Easy Crossword: "projects/easycrossword/easy-crossword"
     - Crossword of Chinese Idiom: "projects/crosswordchinese/crossword-chinese"
-    - Magic Bean: "projects/puyopuyo/puyopuyo"
-    - Notebook: "projects/notebook/"
     - Crossle: "projects/crossle/crossle"
+    - WordQuest: "projects/wordquest/wordquest"
 
   Downloads:
     - Crossword Daily: "https://play.google.com/store/apps/details?id=com.minikara.crossword.android"
