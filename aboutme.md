@@ -1,17 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Pocket Star
+subtitle: an innovative mobile developing studio
 ---
 
-My name is Benjamin Hsu. I lead a double life, in lots of aspects:
+Pocket Star has been focus on mobile developing since the early era of mobile phone.
 
-- I work as a regular engineer at large tech company in day time while I am a crazy APP devloper at night.
-- I pretend to be an artist like I pretend to be a programmer.
-- I ...
+- Produced lots of word games.
+- Produced lots of casual games.
+- Produced various tool APPs.
 
-What else do you need?
 
-### My history
-I have develoeped lots of APPs, but the true successful one is still on the way. Therefore I left this part blank.
-Anyway you could contact me with the following Twitter link, if you are interested.
+### Ongoing Projects
+Pix3D: a tool helping creating 3D models for pixel art artist.

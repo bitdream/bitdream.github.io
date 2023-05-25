@@ -12,13 +12,14 @@ author: Benjamin Xu
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Us: "aboutme"
   Casual Games:
     - Mahjong Tutorial: "beginner.htm"
     - Wordapp Crossword Maker: "projects/crosswordmaker/wordapp-crosswod-maker"
     - Combo Push: "projects/combopush/combopush"
     - Magic Bean: "projects/puyopuyo/puyopuyo"
     - Notebook: "projects/notebook/"
+    - Pix3D: "projects/pix3d/"
 
   Word Games:
     - Crossword with More Clues: "projects/easycrosswordmc/index"
