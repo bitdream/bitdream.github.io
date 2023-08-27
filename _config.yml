@@ -29,6 +29,7 @@ navbar-links:
     - Crossword of Chinese Idiom: "projects/crosswordchinese/crossword-chinese"
     - Crossle: "projects/crossle/crossle"
     - WordQuest: "projects/wordquest/wordquest"
+    - EnglishCrossword: "projects/englishcrossword"
 
   Downloads:
     - Crossword Daily: "https://play.google.com/store/apps/details?id=com.minikara.crossword.android"
