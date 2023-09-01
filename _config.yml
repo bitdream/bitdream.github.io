@@ -30,6 +30,7 @@ navbar-links:
     - Crossle: "projects/crossle/crossle"
     - WordQuest: "projects/wordquest/wordquest"
     - EnglishCrossword: "projects/englishcrossword"
+    - MiniCrossword: "projects/minicrossword"
 
   Downloads:
     - Crossword Daily: "https://play.google.com/store/apps/details?id=com.minikara.crossword.android"
