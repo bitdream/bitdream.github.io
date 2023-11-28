@@ -1,13 +1,13 @@
 ---
 layout: post
 title: How to Delete Your Account and Data
-subtitle: Delete your account and data for Crossword with More Clues.
+subtitle: Delete your account and data for Easy Crossword with More Clues.
 tags: [Crossword, Tutorial, Word Game, Puzzle]
 comments: true
 ---
 
 
-The game uses Google Play Game Services to manage the account and game data. Usually it doesn't create an account unless it is your first game with the Google Play Game Services. Anyway instructions are provided here.
+Easy Crossword with More Clues uses Google Play Game Services to manage the account and game data. Usually it doesn't create an account unless it is your first game with the Google Play Game Services. Anyway instructions are provided here.
 Here are the steps you can delete your account and data.
 
 **Delete your Play Games profile and data**
