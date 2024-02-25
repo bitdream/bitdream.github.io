@@ -23,7 +23,7 @@ navbar-links:
 
   Word Games:
     - Crossword with More Clues: "projects/easycrosswordmc/index"
-    - Crossword Editor: "projects/crosswordeditor/crosswod-editor"
+    - Acrostic: "projects/acrostic"
     - Crossword Maker: "projects/crosswordmaker/wordapp-crosswod-maker"
     - Easy Crossword: "projects/easycrossword/easy-crossword"
     - Crossword of Chinese Idiom: "projects/crosswordchinese/crossword-chinese"
