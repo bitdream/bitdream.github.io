@@ -1,4 +1,10 @@
-
+---
+layout: post
+title: Ten Tricks for Successfully Tackling the Trickiest Puzzles
+subtitle: Crossword Tutorial for Beginners
+tags: [Crossword, Tutorial, Word Game, Puzzle]
+comments: true
+---
 
 ## Ten Tricks for Successfully Tackling the Trickiest Puzzles
 
