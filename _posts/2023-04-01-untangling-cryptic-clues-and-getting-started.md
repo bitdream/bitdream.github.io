@@ -91,10 +91,6 @@ Double definitions
 
 Hidden words
 
-At the end of this chapter I give you a very brief run-
-down on what each clue device is. For a proper discussion
-about these devices, please see my other book Solving
-Cryptic Crosswords For Dummies.
 
 ## Looking out for indicator words
 
@@ -148,10 +144,8 @@ or a few letters to the wordplay. Thousands of words can
 be used as ‘abbreviation indicators’. Most of these are
 abbreviations you are familiar with, such as right = R and
 east = E. However, many are more unusual. For example,
-first = IST, because it looks a bit like 1st. There is a
-list of some abbreviations in Chapter 2. Getting the
-common abbreviations under your belt will really help you
-crack the cryptic code!
+first = IST, because it looks a bit like 1st. 
+
 
 # Putting it All Together
 
