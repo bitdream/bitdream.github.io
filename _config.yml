@@ -22,14 +22,15 @@ navbar-links:
     - Pix3D: "projects/pix3d/"
 
   Word Games:
+    - Crossword Daily: "https://crossworddaily.app"
     - Crossword with More Clues: "projects/easycrosswordmc/index"
+    - EnglishCrossword: "projects/englishcrossword"
     - Acrostic: "projects/acrostic"
     - Crossword Maker: "projects/crosswordmaker/wordapp-crosswod-maker"
     - Easy Crossword: "projects/easycrossword/easy-crossword"
     - Crossword of Chinese Idiom: "projects/crosswordchinese/crossword-chinese"
     - Crossle: "projects/crossle/crossle"
     - WordQuest: "projects/wordquest/wordquest"
-    - EnglishCrossword: "projects/englishcrossword"
     - MiniCrossword: "projects/minicrossword"
 
   Downloads:
