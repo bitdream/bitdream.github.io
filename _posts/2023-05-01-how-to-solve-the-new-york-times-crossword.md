@@ -1,3 +1,11 @@
+---
+layout: post
+title: How to Solve the New York Times Crossword
+subtitle: Introducing to NYT Crosswords
+tags: [Crossword, Tutorial, Word Game, Puzzle, NYT crossword]
+comments: true
+---
+
 
 # How to Solve the New York Times Crossword
 
