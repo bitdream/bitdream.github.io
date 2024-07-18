@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lesson 1 : Getting Started as a Beginning Solver
+title: Lesson 1 Getting Started as a Beginning Solver
 subtitle: Conquer the NYT Crosswords (6)
 tags: [Crossword, Tutorial, Word Game, Puzzle, NYT crossword]
 comments: true
