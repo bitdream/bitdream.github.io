@@ -1,0 +1,733 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	font: {
+		file: font-export.fnt
+		scaledSize: -1
+		markupEnabled: false
+		flip: false
+	}
+	font-over: {
+		file: font-over-export.fnt
+		scaledSize: -1
+		markupEnabled: false
+		flip: false
+	}
+	font-pressed: {
+		file: font-pressed-export.fnt
+		scaledSize: -1
+		markupEnabled: false
+		flip: false
+	}
+	robot30: {
+		file: robot30.fnt
+		scaledSize: -1
+		markupEnabled: false
+		flip: false
+	}
+	robot45: {
+		file: robot45.fnt
+		scaledSize: -1
+		markupEnabled: false
+		flip: false
+	}
+	robot60black: {
+		file: robot60black.fnt
+		scaledSize: -1
+		markupEnabled: false
+		flip: false
+	}
+	Roboto-Regular24: {
+		file: Roboto-Regular.fnt
+		scaledSize: -1
+		markupEnabled: false
+		flip: false
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	blue: {
+		r: 0.03529412
+		g: 0
+		b: 1
+		a: 1
+	}
+	color: {
+		r: 0.14117648
+		g: 1
+		b: 0.09019608
+		a: 1
+	}
+	dark_blue: {
+		r: 0
+		g: 0
+		b: 0.16078432
+		a: 1
+	}
+	frame_blue: {
+		r: 0.3764706
+		g: 0.3764706
+		b: 1
+		a: 1
+	}
+	frame_pink: {
+		r: 1
+		g: 0.3764706
+		b: 0.6862745
+		a: 1
+	}
+	frame_purple: {
+		r: 1
+		g: 0.3764706
+		b: 1
+		a: 1
+	}
+	frame_red: {
+		r: 1
+		g: 0.3764706
+		b: 0.3764706
+		a: 1
+	}
+	green: {
+		r: 0
+		g: 1
+		b: 0
+		a: 1
+	}
+	light_blue: {
+		r: 0.8
+		g: 0.8
+		b: 1
+		a: 1
+	}
+	light_green: {
+		r: 0.7921569
+		g: 1
+		b: 0.7921569
+		a: 1
+	}
+	purple: {
+		r: 0.95686275
+		g: 0
+		b: 1
+		a: 1
+	}
+	red: {
+		r: 1
+		g: 0
+		b: 0
+		a: 1
+	}
+	selected: {
+		r: 0.07058824
+		g: 0.49019608
+		b: 0.039215688
+		a: 1
+	}
+	text: {
+		r: 0.47058824
+		g: 1
+		b: 0.4509804
+		a: 1
+	}
+	text-selected: {
+		r: 0.76862746
+		g: 1
+		b: 0.7490196
+		a: 1
+	}
+	white: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	button-c: {
+		name: button
+		color: color
+	}
+	button-over-c: {
+		name: button-over
+		color: color
+	}
+	button-pressed-c: {
+		name: button-pressed
+		color: color
+	}
+	checkbox-pressed-c: {
+		name: checkbox-pressed
+		color: color
+	}
+	checkbox-c: {
+		name: checkbox
+		color: color
+	}
+	checkbox-over-c: {
+		name: checkbox-over
+		color: color
+	}
+	radio-c: {
+		name: radio
+		color: color
+	}
+	radio-pressed-c: {
+		name: radio-pressed
+		color: color
+	}
+	radio-over-c: {
+		name: radio-over
+		color: color
+	}
+	color: {
+		name: white
+		color: color
+	}
+	list-c: {
+		name: list
+		color: color
+	}
+	slider-c: {
+		name: slider
+		color: color
+	}
+	progress-bar-c: {
+		name: progress-bar
+		color: color
+	}
+	progress-bar-knob-c: {
+		name: progress-bar-knob
+		color: color
+	}
+	progress-bar-vertical-c: {
+		name: progress-bar-vertical
+		color: color
+	}
+	progress-bar-vertical-knob-c: {
+		name: progress-bar-vertical-knob
+		color: color
+	}
+	scroll-horizontal-c: {
+		name: scroll-horizontal
+		color: color
+	}
+	scroll-vertical-c: {
+		name: scroll-vertical
+		color: color
+	}
+	select-box-c: {
+		name: select-box
+		color: color
+	}
+	select-box-over-c: {
+		name: select-box-over
+		color: color
+	}
+	select-box-pressed-c: {
+		name: select-box-pressed
+		color: color
+	}
+	slider-before-c: {
+		name: slider-before
+		color: color
+	}
+	slider-knob-c: {
+		name: slider-knob
+		color: color
+	}
+	slider-knob-pressed-c: {
+		name: slider-knob-pressed
+		color: color
+	}
+	slider-vertical-c: {
+		name: slider-vertical
+		color: color
+	}
+	slider-vertical-before-c: {
+		name: slider-vertical-before
+		color: color
+	}
+	split-pane-horizontal-c: {
+		name: split-pane-horizontal
+		color: color
+	}
+	split-pane-vertical-c: {
+		name: split-pane-vertical
+		color: color
+	}
+	selected: {
+		name: white
+		color: selected
+	}
+	textfield-c: {
+		name: textfield
+		color: color
+	}
+	textfield-login-c: {
+		name: textfield-login
+		color: color
+	}
+	textfield-selected-c: {
+		name: textfield-selected
+		color: color
+	}
+	textfield-login-selected-c: {
+		name: textfield-login-selected
+		color: color
+	}
+	textfield-password-c: {
+		name: textfield-password
+		color: color
+	}
+	textfield-password-selected-c: {
+		name: textfield-password-selected
+		color: color
+	}
+	tooltip-c: {
+		name: tooltip
+		color: color
+	}
+	touchpad-c: {
+		name: touchpad
+		color: color
+	}
+	touchpad-knob-c: {
+		name: touchpad-knob
+		color: color
+	}
+	plus-c: {
+		name: plus
+		color: color
+	}
+	minus-c: {
+		name: minus
+		color: color
+	}
+	window-c: {
+		name: window
+		color: color
+	}
+	checkbox-pressed-over-c: {
+		name: checkbox-pressed-over
+		color: color
+	}
+	progress-bar-big-c: {
+		name: progress-bar-big
+		color: color
+	}
+	progress-bar-big-knob-c: {
+		name: progress-bar-big-knob
+		color: color
+	}
+	thred: {
+		name: white
+		color: {
+			r: 0.5411765
+			g: 0.5411765
+			b: 0.5411765
+			a: 1
+		}
+	}
+	previous96-light-green: {
+		name: previous96
+		color: text-selected
+	}
+	previous96-frame-pink: {
+		name: previous96
+		color: frame_pink
+	}
+	icons8-web-advertising-96-dark: {
+		name: icons8-web-advertising-96
+		color: text-selected
+	}
+	icons8-progress-100pink: {
+		name: icons8-progress-100
+		color: frame_pink
+	}
+	chat-pink: {
+		name: chat
+		color: frame_pink
+	}
+	research-pink: {
+		name: research
+		color: frame_pink
+	}
+	settings-red: {
+		name: settings
+		color: red
+	}
+	shopping-red: {
+		name: shopping
+		color: red
+	}
+	heart-red: {
+		name: heart
+		color: red
+	}
+	removead-pink: {
+		name: removead
+		color: frame_pink
+	}
+	check-mark-off-pink: {
+		name: check-mark-off
+		color: frame_pink
+	}
+	check-mark-on-pink: {
+		name: check-mark-on
+		color: frame_pink
+	}
+	close-dots-blue: {
+		name: close-dots
+		color: blue
+	}
+	research-light-blue: {
+		name: research
+		color: light_blue
+	}
+	advertising-pink: {
+		name: advertising
+		color: frame_pink
+	}
+	icons8-web-advertising-96-pink: {
+		name: icons8-web-advertising-96
+		color: frame_pink
+	}
+	advertising-light-blue: {
+		name: advertising
+		color: light_blue
+	}
+	message-red: {
+		name: message
+		color: frame_red
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	default: {
+		up: shiftButtons_blue
+		down: shiftButtons
+		over: shiftButtons_blue
+	}
+	left: {
+		up: previous96
+		down: previous96-light-green
+		over: previous96-light-green
+	}
+	hint: {
+		up: research-pink
+		down: research
+		disabled: research-light-blue
+	}
+	askfriend: {
+		up: chat-pink
+		down: chat
+	}
+	ads: {
+		up: icons8-web-advertising-96-pink
+		down: icons8-web-advertising-96-dark
+		over: icons8-web-advertising-96-pink
+	}
+	progress: {
+		up: icons8-progress-100
+		down: icons8-progress-100pink
+		over: icons8-progress-100
+	}
+	noads: {
+		up: removead-pink
+		down: removead
+	}
+	settings: {
+		up: settings
+		down: settings-red
+		over: settings
+	}
+	like: {
+		up: heart
+		down: heart-red
+		over: heart
+	}
+	shop: {
+		up: shopping
+		down: shopping-red
+		over: shopping
+	}
+	close-dots: {
+		up: close-dots
+		down: close-dots-blue
+		over: close-dots
+	}
+	ads2: {
+		up: advertising-pink
+		down: advertising-light-blue
+		over: advertising-pink
+	}
+	message: {
+		up: message
+		down: message-red
+		over: message
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle: {
+	default: {
+		checkboxOn: checkbox-pressed-c
+		checkboxOff: checkbox-c
+		checkboxOver: checkbox-over-c
+		font: font
+		fontColor: text
+		downFontColor: text-selected
+		checkedFontColor: text-selected
+	}
+	radio: {
+		checkboxOn: radio-pressed-c
+		checkboxOff: radio-c
+		checkboxOver: radio-over-c
+		font: font
+		fontColor: color
+		downFontColor: selected
+		checkedFontColor: selected
+	}
+	pink: {
+		checkboxOn: check-mark-on-pink
+		checkboxOff: check-mark-off-pink
+		checkboxOver: check-mark-off-pink
+		font: robot45
+		fontColor: frame_pink
+		downFontColor: light_green
+		checkedFontColor: frame_pink
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+	default: {
+		imageUp: button-c
+		imageDown: button-pressed-c
+		imageOver: button-over-c
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton$ImageTextButtonStyle: {
+	default: {
+		font: font
+		fontColor: text
+		downFontColor: text-selected
+		up: button-c
+		down: button-pressed-c
+		over: button-over-c
+	}
+	checkbox: {
+		imageUp: checkbox-c
+		imageDown: checkbox-pressed-c
+		imageOver: checkbox-over-c
+		imageChecked: checkbox-pressed-c
+		imageCheckedOver: checkbox-pressed-over-c
+		font: font
+		fontColor: text
+		downFontColor: text-selected
+		checkedFontColor: text-selected
+	}
+	radio: {
+		imageUp: radio-c
+		imageDown: radio-pressed-c
+		imageOver: radio-over-c
+		imageChecked: radio-pressed-c
+		imageCheckedOver: radio-over-c
+		font: font
+		fontColor: text
+		downFontColor: text-selected
+		checkedFontColor: text-selected
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: robot45
+		fontColor: white
+	}
+	over: {
+		font: font-over
+		fontColor: text
+	}
+	pressed: {
+		font: font-pressed
+		fontColor: text
+	}
+	pad-normal: {
+		font: robot45
+		fontColor: frame_blue
+		background: shiftButtons_blue
+	}
+	pad-focus: {
+		font: robot45
+		fontColor: frame_red
+		background: shiftButtons_red
+	}
+	pad-done: {
+		font: robot45
+		fontColor: frame_purple
+		background: shiftButtons_purple
+	}
+	pad-gray: {
+		font: robot45
+		fontColor: selected
+		background: shiftButtons
+	}
+	title: {
+		font: robot60black
+		fontColor: white
+	}
+	small: {
+		font: robot30
+		fontColor: white
+	}
+	pink: {
+		font: robot45
+		fontColor: frame_pink
+	}
+	pink-small: {
+		font: robot30
+		fontColor: frame_pink
+	}
+	blue-small: {
+		font: robot30
+		fontColor: frame_blue
+	}
+	blue-mini: {
+		font: Roboto-Regular24
+		fontColor: frame_blue
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle: {
+	default: {
+		font: font
+		fontColorSelected: selected
+		fontColorUnselected: text
+		selection: color
+		background: list-c
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle: {
+	default-horizontal: {
+		background: progress-bar-c
+		knobBefore: progress-bar-knob-c
+	}
+	default-vertical: {
+		background: progress-bar-vertical-c
+		knobBefore: progress-bar-vertical-knob-c
+	}
+	big: {
+		background: progress-bar-big-c
+		knobBefore: progress-bar-big-knob-c
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: {
+	default: {
+		hScrollKnob: scroll-horizontal-c
+		vScrollKnob: scroll-vertical-c
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.SelectBox$SelectBoxStyle: {
+	default: {
+		font: font
+		fontColor: text
+		background: select-box-c
+		scrollStyle: default
+		listStyle: default
+		backgroundOver: select-box-over-c
+		backgroundOpen: select-box-pressed-c
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+	default-horizontal: {
+		knobOver: slider-knob-pressed-c
+		knobDown: slider-knob-pressed-c
+		background: slider-c
+		knob: slider-knob-c
+		knobBefore: slider-before-c
+	}
+	default-vertical: {
+		knobOver: slider-knob-pressed-c
+		knobDown: slider-knob-pressed-c
+		background: slider-vertical-c
+		knob: slider-knob-c
+		knobBefore: slider-vertical-before-c
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.SplitPane$SplitPaneStyle: {
+	default-horizontal: {
+		handle: split-pane-horizontal-c
+	}
+	default-vertical: {
+		handle: split-pane-vertical-c
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: robot45
+		fontColor: frame_blue
+		downFontColor: frame_pink
+		up: shiftButtons_blue
+		down: shiftButtons
+		over: shiftButtons
+	}
+	small: {
+		font: robot30
+		fontColor: frame_blue
+		downFontColor: frame_pink
+		up: shiftButtons_blue
+		down: shiftButtons
+		over: shiftButtons
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
+	default: {
+		font: font
+		fontColor: text
+		background: textfield-c
+		focusedBackground: textfield-selected-c
+		cursor: color
+		selection: selected
+	}
+	login: {
+		font: font
+		fontColor: text
+		background: textfield-login-c
+		focusedBackground: textfield-login-selected-c
+		cursor: color
+		selection: selected
+	}
+	password: {
+		font: font
+		fontColor: text
+		background: textfield-password-c
+		focusedBackground: textfield-password-selected-c
+		cursor: color
+		selection: selected
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
+	default: {
+		label: default
+		background: tooltip-c
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Touchpad$TouchpadStyle: {
+	default: {
+		background: touchpad-c
+		knob: touchpad-knob-c
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Tree$TreeStyle: {
+	default: {
+		plus: plus-c
+		minus: minus-c
+		selection: selected
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+	default: {
+		background: dialog-blue
+		titleFont: font
+		titleFontColor: blue
+	}
+	light-green: {
+		background: dialog-light-green
+		titleFont: font
+		titleFontColor: light_green
+	}
+}
+}
