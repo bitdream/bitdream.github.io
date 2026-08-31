@@ -12,4 +12,6 @@ Pocket Star has been focus on mobile developing since the early era of mobile ph
 
 
 ### Ongoing Projects
+Duo Drop: a color-match puzzle. Drop twin gems, match four, clear the jellies.
+
 Pix3D: a tool helping creating 3D models for pixel art artist.

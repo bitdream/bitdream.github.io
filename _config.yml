@@ -14,6 +14,7 @@ author: Benjamin Xu
 navbar-links:
   About Us: "aboutme"
   Casual Games:
+    - Duo Drop: "projects/duodrop/"
     - Mahjong Tutorial: "beginner.htm"
     - Wordapp Crossword Maker: "projects/crosswordmaker/wordapp-crosswod-maker"
     - Combo Push: "projects/combopush/combopush"
@@ -34,6 +35,7 @@ navbar-links:
     - MiniCrossword: "projects/minicrossword"
 
   Downloads:
+    - Duo Drop: "https://play.google.com/store/apps/details?id=com.minikara.jellylab"
     - Crossword Daily: "https://play.google.com/store/apps/details?id=com.minikara.crossword.android"
     - Mahjong School: "https://play.google.com/store/apps/details?id=com.minikara.jpmahjong"
     
