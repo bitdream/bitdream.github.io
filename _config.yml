@@ -13,6 +13,7 @@ author: Benjamin Xu
 
 navbar-links:
   About Us: "aboutme"
+  Xshots: "projects/xshots/"
   Casual Games:
     - Duo Drop: "projects/duodrop/"
     - Mahjong Tutorial: "beginner.htm"
