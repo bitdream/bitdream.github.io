@@ -1,0 +1,54 @@
+# Pocket Star (minikara.com)
+
+> Pocket Star is an independent mobile app studio founded by Benjamin Xu. It makes crossword and word puzzle games, casual puzzle games, and small utility apps for Android and iOS, and publishes crossword-solving tutorials for beginners.
+
+- Website: https://minikara.com
+- Developer: Benjamin Xu (Pocket Star Studio)
+- Contact: xiliangxu@gmail.com
+- X/Twitter: https://twitter.com/minikaraoke
+- YouTube: https://www.youtube.com/channel/UCxxnH-mftpMOsA_WVXYLLlw
+
+## Word and crossword apps
+
+- [Crossword Daily](https://crossworddaily.app): Downloads and plays daily crosswords from many publishers (NYT-style, Universal, WSJ, LA Times, cryptics and more). An alternative to Shortyz. [Google Play](https://play.google.com/store/apps/details?id=com.minikara.crossword.android), [App Store](https://apps.apple.com/us/app/crossword-daily-word-puzzle/id1328365094)
+- [Easy Crossword](https://minikara.com/projects/easycrossword/easy-crossword): Quick, simple, free crosswords for beginners.
+- [Easy Crossword with More Clues](https://minikara.com/projects/easycrosswordmc/index): Beginner-friendly crosswords with extra clues for each answer, designed for English learners (ESL).
+- [English Crossword Puzzles](https://minikara.com/projects/englishcrossword): Easy interactive crosswords with a flat difficulty curve for English learners.
+- [Mini Crossword](https://minikara.com/projects/minicrossword): Over 1000 small crosswords solvable in minutes.
+- [Acrostic Trivia Crossword](https://minikara.com/projects/acrostic): Acrostic puzzles where clue answers fill in a hidden quote or trivia fact.
+- [Crossle](https://minikara.com/projects/crossle/crossle): A word game that mixes crosswords with Wordle/Lingo-style guessing.
+- [Word Quest](https://minikara.com/projects/wordquest/wordquest): Connect letters to find hidden words.
+- [Crossword of Chinese Idioms](https://minikara.com/projects/crosswordchinese/crossword-chinese): Classic crossword format using Chinese idioms; 6 packs of 100 puzzles for learners and native speakers.
+- [Wordapp Crossword Maker](https://minikara.com/projects/crosswordmaker/wordapp-crosswod-maker): Mobile app to create your own crosswords easily.
+- [Crossword Editor](https://minikara.com/projects/crosswordeditor/crosswod-editor): Crossword constructor tool for building professional crosswords, with word auto-complete.
+
+## Casual games
+
+- [Duo Drop](https://minikara.com/projects/duodrop/): Color-match puzzle. Drop linked twin gems, match four of a color, and clear the jellies. Similar to Dr. Mario.
+- [Combo Push](https://minikara.com/projects/combopush/combopush): Tetromino block game where you push blocks together to form squares and chain combos.
+- [Magic Bean](https://minikara.com/projects/puyopuyo/puyopuyo): Offline Puyo Puyo-style falling bean puzzle.
+- [Mahjong Tutorial](https://minikara.com/beginner.htm): Beginner guide to Japanese Riichi Mahjong (companion to the Mahjong School app).
+
+## Tools
+
+- [Xshots](https://minikara.com/projects/xshots/): Turns a public X (Twitter) post or thread into a PNG image or PDF. Android.
+- [Pix3D](https://minikara.com/projects/pix3d/): Converts 2D pixel art into 3D voxel models.
+- [My Vocabulary Notebook](https://minikara.com/projects/notebook/): Build a personal word list with a built-in dictionary. iOS.
+
+## Crossword tutorials
+
+- [Crossword Introduction](https://minikara.com/2022-01-01-crossword-introduction/)
+- [Tips for Making a Start on Crossword](https://minikara.com/2022-02-01-tips-for-making-a-start-on-crossword/)
+- [Brief History of Crosswords](https://minikara.com/2022-03-01-brief-history-of-crosswords/)
+- [Tips for Cryptic Crosswords](https://minikara.com/2022-04-01-Tips-for-cryptic-crosswords/)
+- [Crossword Terminology](https://minikara.com/2022-04-02-crossword-terminology/)
+- [Difference between US and UK Crosswords](https://minikara.com/2020-12-15-crossword-knowledge/)
+- [The Alternative to Shortyz](https://minikara.com/2023-02-01-shortyz-alternative/)
+- [Crossword Glossary](https://minikara.com/2023-07-01-crossword-glossary/)
+- [100 Must-Know Crossword Words](https://minikara.com/2023-10-01-100-must-know-words/)
+
+## Optional
+
+- [About Pocket Star](https://minikara.com/aboutme)
+- [All posts by tag](https://minikara.com/tags)
+- [RSS feed](https://minikara.com/feed.xml)

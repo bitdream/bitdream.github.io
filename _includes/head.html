@@ -8,9 +8,15 @@
   <meta name="author" content="{{ site.author }}">
   {% endif %}
   
-  {% if page.subtitle %}
-  <meta name="description" content="{{ page.subtitle }}">
-  {% endif %}
+  {%- capture metadesc -%}
+    {%- if page.meta-description -%}{{ page.meta-description }}
+    {%- elsif page.subtitle and page.subtitle != "" -%}{{ page.subtitle }}
+    {%- elsif page.excerpt -%}{{ page.excerpt | strip_html | normalize_whitespace | truncatewords: 40 }}
+    {%- else -%}{{ site.description }}
+    {%- endif -%}
+  {%- endcapture -%}
+  {%- assign metadesc = metadesc | strip -%}
+  <meta name="description" content="{{ metadesc | escape }}">
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | default: 'Untitled' }} {{ site.title-separator | default: '-' }} {{ site.description }}" href="{{ '/feed.xml' | absolute_url }}">
 
@@ -129,6 +135,64 @@
 
   {% if shareimg != "" %}
   <meta name="twitter:image" content="{{ shareimg | absolute_url }}">
+  {% endif %}
+
+  <!-- Structured data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "{{ '/#organization' | absolute_url }}",
+    "name": {{ site.title | jsonify }},
+    "url": "{{ '/' | absolute_url }}",
+    "logo": "{{ site.avatar | absolute_url }}",
+    "description": {{ site.description | jsonify }},
+    "founder": { "@type": "Person", "name": {{ site.author | jsonify }} },
+    "email": {{ site.social-network-links.email | jsonify }},
+    "sameAs": [
+      "https://twitter.com/{{ site.social-network-links.twitter }}",
+      "https://www.facebook.com/{{ site.social-network-links.facebook }}",
+      "https://www.youtube.com/{{ site.social-network-links.youtube }}"
+    ]
+  }
+  </script>
+
+  {% if page.id %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": {{ page.title | jsonify }},
+    "description": {{ metadesc | jsonify }},
+    "url": "{{ page.url | absolute_url }}",
+    "mainEntityOfPage": "{{ page.url | absolute_url }}",
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+    {% if shareimg != "" %}"image": "{{ shareimg | absolute_url }}",{% endif %}
+    {% if page.tags %}"keywords": {{ page.tags | join: ", " | jsonify }},{% endif %}
+    "author": { "@type": "Person", "name": {{ site.author | jsonify }} },
+    "publisher": { "@id": "{{ '/#organization' | absolute_url }}" }
+  }
+  </script>
+  {% elsif page.android-id or page.ios-id %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": {{ page.app-name | default: page.title | jsonify }},
+    "description": {{ metadesc | jsonify }},
+    "url": "{{ page.url | absolute_url | strip_index }}",
+    {% if page.thumbnail-img %}"image": "{{ page.thumbnail-img | absolute_url }}",{% endif %}
+    "applicationCategory": {{ page.app-category | default: "GameApplication" | jsonify }},
+    "operatingSystem": "{% if page.android-id %}Android{% endif %}{% if page.android-id and page.ios-id %}, {% endif %}{% if page.ios-id %}iOS{% endif %}",
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+    "author": { "@id": "{{ '/#organization' | absolute_url }}" },
+    "sameAs": [
+      {% if page.android-id %}"https://play.google.com/store/apps/details?id={{ page.android-id }}"{% endif %}{% if page.android-id and page.ios-id %},{% endif %}
+      {% if page.ios-id %}"https://apps.apple.com/app/id{{ page.ios-id }}"{% endif %}
+    ]
+  }
+  </script>
   {% endif %}
 
   {% if site.matomo %}

@@ -6,6 +6,9 @@ title: Pocket Star
 # Short description of your site
 description: Projects and Develop Blogs of Pocket Star Studio
 
+# Canonical site URL, used for absolute links, canonical tags and the sitemap
+url: "https://minikara.com"
+
 # Your name to show in the footer
 author: Benjamin Xu
 
@@ -217,6 +220,26 @@ defaults:
     values:
       layout: "page"
       show-avatar: true
+  -
+    scope:
+      path: "privacy*"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "eula_cross.html"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "musketeer-policy.html"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "comments_policy.md"
+    values:
+      sitemap: false
 
 # Exclude these files from production site
 exclude:
