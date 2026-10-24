@@ -24,6 +24,7 @@
 
 ## Casual games
 
+- [Book Sort](https://minikara.com/projects/booksort/): Color-sort puzzle. Sort books by color onto wooden shelves in a pixel night library. [Google Play](https://play.google.com/store/apps/details?id=com.minikara.sort.book)
 - [Duo Drop](https://minikara.com/projects/duodrop/): Color-match puzzle. Drop linked twin gems, match four of a color, and clear the jellies. Similar to Dr. Mario.
 - [Combo Push](https://minikara.com/projects/combopush/combopush): Tetromino block game where you push blocks together to form squares and chain combos.
 - [Magic Bean](https://minikara.com/projects/puyopuyo/puyopuyo): Offline Puyo Puyo-style falling bean puzzle.

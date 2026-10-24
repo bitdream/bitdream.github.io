@@ -18,6 +18,7 @@ navbar-links:
   About Us: "aboutme"
   Xshots: "projects/xshots/"
   Casual Games:
+    - Book Sort: "projects/booksort/"
     - Duo Drop: "projects/duodrop/"
     - Mahjong Tutorial: "beginner.htm"
     - Wordapp Crossword Maker: "projects/crosswordmaker/wordapp-crosswod-maker"
@@ -39,6 +40,7 @@ navbar-links:
     - MiniCrossword: "projects/minicrossword"
 
   Downloads:
+    - Book Sort: "https://play.google.com/store/apps/details?id=com.minikara.sort.book"
     - Duo Drop: "https://play.google.com/store/apps/details?id=com.minikara.jellylab"
     - Crossword Daily: "https://play.google.com/store/apps/details?id=com.minikara.crossword.android"
     - Mahjong School: "https://play.google.com/store/apps/details?id=com.minikara.jpmahjong"
